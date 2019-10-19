@@ -1,0 +1,2 @@
+Computer you'd like to install RDP (Remote Desktop Service) is a domain member Server.
+It is not recommended to install RDS in Domain Controller because of security risk or performance reasons
