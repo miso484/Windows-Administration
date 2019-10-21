@@ -1,0 +1,1 @@
+Before settings DHCP, Configure AD DS in your LAN and make the DHCP Host join the Domain first.
