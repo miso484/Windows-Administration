@@ -1,0 +1,4 @@
+Install Hyper-V to build Virtualization Environment.
+System requirements are like follows.
+  1. x64(64bit) Computer, and CPU has Intel XD bit (Execute Disable bit) or AMD NX bit (No-Execute bit) feature.
+  2. Possible to enable Intel XD bit or AMD NX bit on BIOS setting and it is now enabled.
