@@ -1,0 +1,1 @@
+Remove-DnsServerResourceRecord -ZoneName "srv.world" -RRType "MX" -Name "rx-8" -PassThru 

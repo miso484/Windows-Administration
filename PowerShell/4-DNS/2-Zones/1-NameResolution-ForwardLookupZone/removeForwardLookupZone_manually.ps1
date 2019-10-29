@@ -1,0 +1,1 @@
+Remove-DnsServerZone "srv.world" -PassThru 

@@ -1,0 +1,2 @@
+	
+Configure Stub Zone, that has only SOA, NS, Glue Records.

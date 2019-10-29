@@ -1,0 +1,3 @@
+By default setting of OpenSSH on Windows, only [Administrators] group is configured as that [authorized_keys] file is not the default location of OpenSSH like follows, 
+but if you'd like to set it on default location for all users, it needs to comment out these 2 lines.
+⇒ Conf file [C:\ProgramData\ssh\sshd_config]

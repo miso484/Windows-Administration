@@ -1,0 +1,1 @@
+Remove-DnsServerResourceRecord -ZoneName "srv.world" -RRType "A" -Name "rx-8" -RecordData "10.0.0.110" -PassThru 

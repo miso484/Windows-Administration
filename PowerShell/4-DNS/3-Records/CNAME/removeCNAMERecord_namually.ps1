@@ -1,0 +1,1 @@
+Remove-DnsServerResourceRecord -ZoneName "srv.world" -RRType "CNAME" -Name "fd3s" -PassThru 

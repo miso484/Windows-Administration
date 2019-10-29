@@ -1,0 +1,1 @@
+On DNS Conditional Forwarder setting, it's possbile to transfer specific queries of a domain to specific Server you set.
